@@ -1,3 +1,0 @@
-Hallo Welt!
-
-Hier geht es um Versionsverwaltung von Dateien (und Ordnern).

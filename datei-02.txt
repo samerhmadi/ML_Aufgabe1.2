@@ -1,3 +1,0 @@
-Hallo Welt!
-
-Hier geht ess um Fersionsverwaltung.
