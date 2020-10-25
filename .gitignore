@@ -1,0 +1,6 @@
+
+# LibreOffice lock files
+.~lock*
+
+# MS-Word lock files
+~$*
