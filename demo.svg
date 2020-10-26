@@ -9,13 +9,21 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="141.00999"
    inkscape:export-xdpi="141.00999"
+<<<<<<< HEAD
    inkscape:export-filename="smiley-03.png"
+=======
+   inkscape:export-filename="smiley-01.png"
+>>>>>>> smiley
    width="90.062454mm"
    height="90.062454mm"
    viewBox="0 0 90.062454 90.062454"
    version="1.1"
    id="svg8"
+<<<<<<< HEAD
    sodipodi:docname="smiley-03.svg"
+=======
+   sodipodi:docname="smiley-01.svg"
+>>>>>>> smiley
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <defs
      id="defs2" />
@@ -77,15 +85,24 @@
        id="path854"
        sodipodi:type="arc"
        sodipodi:cx="157.40378"
+<<<<<<< HEAD
        sodipodi:cy="-161.34116"
+=======
+       sodipodi:cy="152.28767"
+>>>>>>> smiley
        sodipodi:rx="22.561193"
        sodipodi:ry="9.6622858"
        sodipodi:start="0"
        sodipodi:end="3.1415927"
        sodipodi:arc-type="arc"
+<<<<<<< HEAD
        d="m 179.96497,-161.34116 a 22.561193,9.6622858 0 0 1 -11.2806,8.36779 22.561193,9.6622858 0 0 1 -22.56119,0 22.561193,9.6622858 0 0 1 -11.2806,-8.36779"
        sodipodi:open="true"
        transform="scale(1,-1)" />
+=======
+       d="m 179.96497,152.28767 a 22.561193,9.6622858 0 0 1 -11.2806,8.36779 22.561193,9.6622858 0 0 1 -22.56119,0 22.561193,9.6622858 0 0 1 -11.2806,-8.36779"
+       sodipodi:open="true" />
+>>>>>>> smiley
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 157.40378,120.8687 v 25.30763"
